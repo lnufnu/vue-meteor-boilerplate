@@ -38,4 +38,4 @@ Add [akryum:vue-ssr](https://github.com/meteor-vue/vue-meteor/tree/master/packag
 
 Add [meteor-vue:blaze-integration](https://github.com/meteor-vue/blaze-integration) for Blaze integration.
 
-meteor add vuejs:blaze-integration
+    meteor add vuejs:blaze-integration
