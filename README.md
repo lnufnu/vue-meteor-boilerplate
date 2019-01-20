@@ -30,9 +30,9 @@ Add [akryum:vue-router2](https://github.com/meteor-vue/vue-meteor/tree/master/pa
 
 ### Server-side rendering
 
-meteor add akryum:vue-ssr
-
 Add [akryum:vue-ssr](https://github.com/meteor-vue/vue-meteor/tree/master/packages/vue-ssr#installation) to use server sider rendering.
+
+    meteor add akryum:vue-ssr
 
 ### Blaze
 
